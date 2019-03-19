@@ -1,0 +1,7 @@
+Origin: keenser.github.io/repo
+Label: keenser.github.io/repo
+Codename: stretch
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: 09D147AA3D3B3C0A55D64A903AF47825FD52FE9D

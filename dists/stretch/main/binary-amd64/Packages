@@ -1,0 +1,14 @@
+Package: tftpd-dynamic
+Version: 1.5-8
+Architecture: all
+Depends: python3-jinja2, python3-setproctitle, python3-daemon, python3-pip
+Maintainer: German Skalaukhov <keenser.sg@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/t/tftpd-dynamic/tftpd-dynamic_1.5-8_all.deb
+Size: 4928
+SHA256: 61a98010fa8ee0817f34b308fc995116133a47fcd7efd55b8201c8d68ef4f79b
+SHA1: 4408bb723b7009638ef4060a10c17a4a9050a6f5
+MD5sum: baf465d53a55b522a8c016df98184249
+Description: tftp daemon based on tftpy
+
