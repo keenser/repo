@@ -1,3 +1,16 @@
+Package: tac-plus
+Version: 201906100936
+Architecture: amd64
+Maintainer: German Skalaukhov <keenser.sg@gmail.com>
+Priority: optional
+Section: utils
+Filename: pool/main/t/tac-plus/tac-plus_201906100936_amd64.deb
+Size: 2561908
+SHA256: ffb135f160f193e550f6a11c0792cba4d64bcbcc8f76a5968c571c467e4719b3
+SHA1: b6853645b3680294063d5073d50d1882a8dea953
+MD5sum: f1a57ea5ff44a92696752bc34e4844bb
+Description: tacacs package 
+
 Package: tftpd-dynamic
 Version: 1.5-8
 Architecture: all
