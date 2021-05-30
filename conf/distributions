@@ -1,6 +1,6 @@
 Origin: keenser.github.io/repo
 Label: keenser.github.io/repo
-Codename: stretch
+Codename: stable
 Architectures: amd64
 Components: main
 Description: Personal repository

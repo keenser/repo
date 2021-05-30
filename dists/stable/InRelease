@@ -3,8 +3,8 @@ Hash: SHA512
 
 Origin: keenser.github.io/repo
 Label: keenser.github.io/repo
-Codename: stretch
-Date: Sun, 11 Aug 2019 20:42:36 UTC
+Codename: stable
+Date: Sun, 30 May 2021 12:37:53 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
@@ -22,15 +22,15 @@ SHA256:
  269c218a3a05cec71c68da99285139e639f2789ab0cfa875b71b442d5bd48e5e 130 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEECdFHqj07PApV1kqQOvR4Jf1S/p0FAl1Qfb0ACgkQOvR4Jf1S
-/p1tDAwAxbm6CrqxIEAS8TOS0FGbi9Y8d1oPfm9cyGOlGhL8uaK35AT23Dd6VYkY
-TstvCKdx12v0LdpsOSJVWS721GVbRczPX36Ywm0xQsR3ZLOm9Gv1vH/IJC/YLfwn
-3U83d0PDcyF3FYBLaXO7QHa67I8Xxcwaf20PnVoZNVAfgm1ylsGzprFAtUjaUaxw
-M7oqnjah7Qx244S6yx9r643/DP8X8Lfk25P9c4dFwRcdjna8HXmZwvidC3QgZtmm
-kkDFUjL6MfgRhTHRtP8p9Ww7uTiTQ108f/k5kXw1Z/XCC/z2dr1j1/VJAs6+orEm
-WmU5btmmayN3p/H5tdi3QRF4IIFwgUu9TwP5qz5H6Exed5RgeOPPxy2xRzFUd3eX
-4uo3VNqT4ZU2gYlZtBSw6yhVw48QhczQcHCPn1QsDPbWUMqnBRzvxSWrGotTXRad
-QqOuW17guokAyeD3V9nmpWe92u2o8uAffRjB2qlxTY9bV+tnvAprgOd9GRW7AEIk
-00L0KEJY
-=750D
+iQGzBAEBCgAdFiEECdFHqj07PApV1kqQOvR4Jf1S/p0FAmCzhyEACgkQOvR4Jf1S
+/p0ToQv/QT8ZLSdYBFDfXMhOPDudKrL77EqAIqRTED3DC4HMh0AzrWJ7DY1adQ+D
+NBt1aVuiXRmE74dZZP2+TEIxv8Ga22Gu5XaunnmZvkAGrS0zikN4iK9B7nLRW9Sf
+ItzrEBZjC+f64y/NOcS6nx7dr/dzJ9TqsvlpnPGf6H0bQOgfOY2PfYfzRQKw1C62
+DMF2nX8qmsAkRIgebPSvkXAFO7rOXN4JKDrgaUDJhcg8u3oNzr2z3oL9e5+rYtbm
+LiRkWO38iGiVsspxkd08L7n3gH82Qkw+WvhqDShJ3vguw1FSYknt0YTYo6ETouKe
+kX/pSjNshfL4ZGsu/cmoASG2/EgOr/2O//cy/urrl4+0p7rPLsU9/wkd5vgh03ae
+naTjACby7tv7azT4JiqJcAnStXAFKehJV0KpQdXnFJkFGqZGIbv7qIM1A9EM1+90
+0swjvKTfJ0vWC/G0en+ZIzd/loClzO6EekGaXYZiZgSJcW7CCELFW4ybrRND5BDY
+HmVzUQO5
+=nGA2
 -----END PGP SIGNATURE-----
