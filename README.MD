@@ -2,5 +2,5 @@ sudo apt-key adv --fetch-keys https://raw.githubusercontent.com/keenser/repo/mas
 
 apt sources.list:
 ```
-deb http://repo.grsk.eu.org stable main
+echo "deb http://repo.grsk.eu.org stable main" | sudo tee /etc/apt/sources.list.d/grsk.list
 ```
