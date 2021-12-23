@@ -2,5 +2,5 @@ sudo apt-key adv --fetch-keys https://raw.githubusercontent.com/keenser/repo/mas
 
 apt sources.list:
 ```
-deb http://keenser.github.io/repo stretch main
+deb http://repo.grsk.eu.org stable main
 ```
