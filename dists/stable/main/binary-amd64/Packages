@@ -1,14 +1,14 @@
-Package: postgresql-11-bdr-pluglin
+Package: postgresql-11-bdr-plugin
 Version: 2.0.6-2
 Architecture: amd64
 Maintainer: German Skalaukhov <keenser.sg@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/p/postgresql-11-bdr-pluglin/postgresql-11-bdr-pluglin_2.0.6-2_amd64.deb
-Size: 574888
-SHA256: f5f327b439b7f3a80d999a2c87ba76fce7f10d5249159e94280d2ec346a7d591
-SHA1: 087e1e2722a7958e85424e3025ffcddfe56b907d
-MD5sum: 52172db90f6af272d4c4cbbcfb9a27a6
+Filename: pool/main/p/postgresql-11-bdr-plugin/postgresql-11-bdr-plugin_2.0.6-2_amd64.deb
+Size: 591724
+SHA256: d20e26e9bda99340d8c3086190d675713e8756b0be5ddfd104e7c2f341a1312c
+SHA1: bc1e88d6f1e61dda57c94a64a57cd9b20198d081
+MD5sum: 7cb8ee173aee1b1f1d642eac63bd3caa
 Description: bdr plugin for postgresql 11
 
 Package: tac-plus
