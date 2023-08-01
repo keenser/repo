@@ -1,4 +1,4 @@
-sudo apt-key adv --fetch-keys https://raw.githubusercontent.com/keenser/repo/master/PUBLIC.KEY
+curl -s https://raw.githubusercontent.com/keenser/repo/master/PUBLIC.KEY | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/keenser.github.io.gpg --import
 
 apt sources.list:
 ```
