@@ -5,10 +5,10 @@ Maintainer: German Skalaukhov <keenser.sg@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/p/postgresql-11-bdr-plugin/postgresql-11-bdr-plugin_2.1.1_amd64.deb
-Size: 598620
-SHA256: 11dda011924bdfa9b6f7ec5637cb9ca45926a179a044a7e9f30d0745b22eda95
-SHA1: 1b0efc2f565f43cf8acdc6e676260c5d41b0b8f5
-MD5sum: 52c7c1db994376aa5a0b4755c8d6e028
+Size: 598340
+SHA256: 06a3a494522a76b80688f63fcfa83958311a342ebe3b964b252b3a38c9ca2c3b
+SHA1: 4df088e5d6ef419c1f180eeea45098d7cd8afe6b
+MD5sum: 239e39a177f4d21c733c885eada481d4
 Description: bdr plugin for postgresql 11
 
 Package: postgresql-13-bdr-plugin
@@ -44,10 +44,10 @@ Maintainer: German Skalaukhov <keenser.sg@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/p/postgresql-16-bdr-plugin/postgresql-16-bdr-plugin_2.1.1_amd64.deb
-Size: 572048
-SHA256: 7a2ee26e040c4effeaa5fdb9c4b2bf7cd5473b0a2d712715ebe2eb7fdf8bb787
-SHA1: 611f22e951e6bb3b2b536abd7129a0e1b68e76ff
-MD5sum: 1d3e9172703e9d7226b7c1b21765fde4
+Size: 572144
+SHA256: 5a79e37a16cbc98f8307be38c3c25c099b3db2de17c92b13d9820096e08c8e0f
+SHA1: 43b4e802b67dcd97de804c2adb2384cc6448147a
+MD5sum: 57d05d933e0802baba5ddc30be6c5b29
 Description: bdr plugin for postgresql 16
 
 Package: tac-plus
