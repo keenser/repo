@@ -64,16 +64,16 @@ MD5sum: f1a57ea5ff44a92696752bc34e4844bb
 Description: tacacs package 
 
 Package: tftpd-dynamic
-Version: 1.6-4
+Version: 1.6-5
 Architecture: all
 Depends: python3-jinja2, python3-setproctitle, python3-daemon, python3-pip
 Maintainer: German Skalaukhov <keenser.sg@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/t/tftpd-dynamic/tftpd-dynamic_1.6-4_all.deb
-Size: 4996
-SHA256: dfc8d8fd5dfeaaf7e269786af44b815d848ba38583677deb1bb407f8287bcae3
-SHA1: 7432c601c253799e5e7dca057b97626407ab776f
-MD5sum: 7a16298bc04822c46b058722e6d15b1b
+Filename: pool/main/t/tftpd-dynamic/tftpd-dynamic_1.6-5_all.deb
+Size: 5008
+SHA256: b7b190fac80d4237d2c8acab9543766678cf7cf856ba069a9c8f5c1aed4e26e8
+SHA1: d31fb7785574a0392bb654e2b9a6061d8dc9bd38
+MD5sum: 72a57b45de8cca98c1f668b86b989d59
 Description: tftp daemon based on tftpy
 
